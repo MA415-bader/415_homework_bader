@@ -1,0 +1,68 @@
+---
+title: "homework 0"
+format: html
+editor: Bader
+---
+
+Homework visualizations:
+
+```{r}
+city <- data.frame(
+  porto = rnorm(100),
+  aberdeen = rnorm(100),
+  nairobi = c(rep(NA, 10), rnorm(90)),
+  genoa = rnorm(100)
+)
+```
+
+```{r}
+library(ggplot2)
+library(dplyr)
+library(tidyr)
+```
+
+```{r}
+city_long <- city %>%
+  pivot_longer(cols = everything(), names_to = "city", values_to = "value")
+
+ggplot(city_long, aes(x=value)) +
+  geom_histogram(bins = 20, fill = "green", alpha = 0.6) +
+  facet_wrap(~ city, scales = "free") +
+  theme_minimal() +
+  labs(title = "facet histogram for city data", x = "values", y = "count")
+```
+
+Legends
+
+```{r}
+ggplot(city_long, aes(x= value, fill = city)) +
+  geom_density(alpha = 0.5) +
+  theme_minimal() +
+  labs(title = "density plot", x = "vals", y = "density") +
+  scale_fill_manual(values = c("red", "green", "purple", "yellow"))
+```
+
+boxplot
+
+```{r}
+ggplot(city_long, aes(x= city, y = value, fill = city)) +
+  geom_boxplot() +
+  theme_minimal() +
+  labs(title = "boxplot", x = "city", y = "values") +
+  scale_fill_manual(values = c("red", "green", "purple", "yellow"))
+```
+
+violin plot
+
+```{r}
+ggplot(city_long, aes(x= city, y = value, fill = city)) +
+  geom_violin(trim = FALSE, alpha = 0.5) +
+  theme_minimal() +
+  labs(title = "violin plot", x = "city", y = "values") +
+  scale_fill_manual(values = c("red", "green", "purple", "yellow"))
+```
+
+```{r}
+ggsave("city_plot.png", width = 8, height = 6)
+
+```

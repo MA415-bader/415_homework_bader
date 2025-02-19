@@ -3,4 +3,4 @@
 This repository contains all my assignments for MA415.
 
 ## Assignments:
-- **Homework0:** contains quarto script for city data visualizations
+- **homework0.qmd:** contains quarto script for city data visualizations

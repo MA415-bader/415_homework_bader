@@ -1,0 +1,10 @@
+name: shiny_test
+title:
+username: bader0
+account: bader0
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14717149
+bundleId: 10253914
+url: https://bader0.shinyapps.io/shiny_test/
+version: 1

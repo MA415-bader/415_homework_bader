@@ -1,0 +1,781 @@
+﻿Year,Month,شهر,Indicator,المؤشر,Sub-Indicator,المؤشر الفرعي,Value
+2011,January,ينايـر,Temperature,درجة الحرارة,Mean,المتوسط,18.1
+2011,March,مــارس,Temperature,درجة الحرارة,Mean,المتوسط,21.3
+2011,April,أبريــل,Temperature,درجة الحرارة,Mean,المتوسط,26.0
+2011,July,يوليــو,Temperature,درجة الحرارة,Mean,المتوسط,35.4
+2011,August,أغسطـس,Temperature,درجة الحرارة,Mean,المتوسط,35.5
+2011,October,أكتوبـر,Temperature,درجة الحرارة,Mean,المتوسط,29.4
+2011,January,ينايـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,15.8
+2011,February,فبرايـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,16.0
+2011,March,مــارس,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,18.7
+2011,August,أغسطـس,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,32.3
+2011,November,نوفمبـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,20.2
+2011,December,ديسمبــر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,14.9
+2011,April,أبريــل,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,19.9
+2011,May,مايـــو,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,24.9
+2011,August,أغسطـس,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,30.8
+2011,April,أبريــل,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,30.3
+2011,June,يونيــو,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,38.2
+2011,July,يوليــو,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,39.5
+2011,September,سبتمبـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,37.9
+2011,November,نوفمبـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,26.1
+2011,January,ينايـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,24.5
+2011,March,مــارس,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,35.1
+2011,November,نوفمبـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,32.8
+2011,December,ديسمبــر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,23.6
+2012,January,ينايـر,Temperature,درجة الحرارة,Mean,المتوسط,17.4
+2012,March,مــارس,Temperature,درجة الحرارة,Mean,المتوسط,19.7
+2012,September,سبتمبـر,Temperature,درجة الحرارة,Mean,المتوسط,33.5
+2012,August,أغسطـس,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,32.5
+2012,November,نوفمبـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,22.5
+2012,December,ديسمبــر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,17.8
+2012,January,ينايـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,9.5
+2012,March,مــارس,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,13.4
+2012,June,يونيــو,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,28.8
+2012,August,أغسطـس,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,31.1
+2012,December,ديسمبــر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,14.1
+2012,June,يونيــو,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,39.0
+2012,July,يوليــو,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,40.5
+2012,November,نوفمبـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,28.0
+2012,February,فبرايـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,27.3
+2012,March,مــارس,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,34.4
+2012,June,يونيــو,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,45.5
+2012,July,يوليــو,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,44.8
+2013,February,فبرايـر,Temperature,درجة الحرارة,Mean,المتوسط,19.6
+2013,April,أبريــل,Temperature,درجة الحرارة,Mean,المتوسط,26.7
+2013,August,أغسطـس,Temperature,درجة الحرارة,Mean,المتوسط,34.6
+2013,October,أكتوبـر,Temperature,درجة الحرارة,Mean,المتوسط,28.3
+2013,November,نوفمبـر,Temperature,درجة الحرارة,Mean,المتوسط,24.3
+2013,July,يوليــو,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,31.9
+2013,December,ديسمبــر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,16.7
+2013,March,مــارس,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,15.8
+2013,July,يوليــو,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,29.5
+2013,October,أكتوبـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,21.0
+2013,December,ديسمبــر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,12.8
+2013,January,ينايـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,22.1
+2013,March,مــارس,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,27.1
+2013,June,يونيــو,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,37.2
+2013,July,يوليــو,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,39.1
+2013,August,أغسطـس,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,38.7
+2013,September,سبتمبـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,37.4
+2013,October,أكتوبـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,32.1
+2013,December,ديسمبــر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,21.9
+2013,January,ينايـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,27.4
+2013,April,أبريــل,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,38.1
+2013,July,يوليــو,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,43.4
+2013,November,نوفمبـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,32.1
+2013,December,ديسمبــر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,27.7
+2014,January,ينايـر,Temperature,درجة الحرارة,Mean,المتوسط,17.0
+2014,February,فبرايـر,Temperature,درجة الحرارة,Mean,المتوسط,18.0
+2014,September,سبتمبـر,Temperature,درجة الحرارة,Mean,المتوسط,33.9
+2014,February,فبرايـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,15.5
+2014,April,أبريــل,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,23.9
+2014,June,يونيــو,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,30.8
+2014,October,أكتوبـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,28.2
+2014,December,ديسمبــر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,18.0
+2014,January,ينايـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,12.0
+2014,June,يونيــو,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,27.3
+2014,September,سبتمبـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,27.9
+2014,October,أكتوبـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,25.5
+2014,November,نوفمبـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,16.2
+2014,January,ينايـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,19.4
+2014,February,فبرايـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,21.3
+2014,March,مــارس,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,26.8
+2014,April,أبريــل,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,31.6
+2014,December,ديسمبــر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,23.2
+2014,January,ينايـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,25.6
+2014,February,فبرايـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,27.3
+2014,March,مــارس,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,35.3
+2014,May,مايـــو,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,45.1
+2014,August,أغسطـس,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,44.3
+2014,September,سبتمبـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,40.8
+2014,December,ديسمبــر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,27.9
+2015,May,مايـــو,Temperature,درجة الحرارة,Mean,المتوسط,37.3741935483871
+2015,September,سبتمبـر,Temperature,درجة الحرارة,Mean,المتوسط,38.77333333333333
+2015,April,أبريــل,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,20.4
+2015,September,سبتمبـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,29.3
+2015,December,ديسمبــر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,12.0
+2015,February,فبرايـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,0.01
+2015,July,يوليــو,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,0.0
+2015,August,أغسطـس,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,0.0
+2015,December,ديسمبــر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,22.2
+2015,January,ينايـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,29.7
+2015,February,فبرايـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,29.8
+2015,April,أبريــل,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,40.9
+2015,June,يونيــو,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,41.5
+2015,July,يوليــو,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,45.8
+2015,August,أغسطـس,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,44.3
+2015,September,سبتمبـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,42.7
+2015,October,أكتوبـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,41.4
+2015,November,نوفمبـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,35.6
+2015,January,ينايـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,14.738709677419354
+2015,July,يوليــو,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,32.60967741935484
+2016,February,فبرايـر,Temperature,درجة الحرارة,Mean,المتوسط,18.9
+2016,March,مــارس,Temperature,درجة الحرارة,Mean,المتوسط,22.7
+2016,July,يوليــو,Temperature,درجة الحرارة,Mean,المتوسط,36.0
+2016,November,نوفمبـر,Temperature,درجة الحرارة,Mean,المتوسط,24.8
+2016,December,ديسمبــر,Temperature,درجة الحرارة,Mean,المتوسط,20.5
+2016,April,أبريــل,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,23.0
+2016,July,يوليــو,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,33.2
+2016,August,أغسطـس,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,33.0
+2016,October,أكتوبـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,25.9
+2016,March,مــارس,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,17.1
+2016,May,مايـــو,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,24.7
+2016,August,أغسطـس,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,31.6
+2016,March,مــارس,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,26.2
+2016,August,أغسطـس,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,41.1
+2016,December,ديسمبــر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,23.6
+2016,February,فبرايـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,28.1
+2016,June,يونيــو,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,44.1
+2016,July,يوليــو,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,43.4
+2016,September,سبتمبـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,45.3
+2016,December,ديسمبــر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,30.0
+2017,January,ينايـر,Temperature,درجة الحرارة,Mean,المتوسط,18.7
+2017,August,أغسطـس,Temperature,درجة الحرارة,Mean,المتوسط,36.6
+2017,January,ينايـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,16.1
+2017,May,مايـــو,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,29.0
+2017,June,يونيــو,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,30.5
+2017,July,يوليــو,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,32.6
+2017,September,سبتمبـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,30.9
+2017,November,نوفمبـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,23.4
+2017,February,فبرايـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,7.8
+2017,June,يونيــو,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,27.7
+2017,August,أغسطـس,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,31.6
+2017,September,سبتمبـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,28.0
+2017,October,أكتوبـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,25.1
+2017,November,نوفمبـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,19.7
+2017,April,أبريــل,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,32.0
+2017,May,مايـــو,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,37.0
+2017,August,أغسطـس,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,44.6
+2017,October,أكتوبـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,38.3
+2018,January,ينايـر,Temperature,درجة الحرارة,Mean,المتوسط,18.4
+2018,February,فبرايـر,Temperature,درجة الحرارة,Mean,المتوسط,19.8
+2018,June,يونيــو,Temperature,درجة الحرارة,Mean,المتوسط,35.7
+2018,August,أغسطـس,Temperature,درجة الحرارة,Mean,المتوسط,35.5
+2018,November,نوفمبـر,Temperature,درجة الحرارة,Mean,المتوسط,24.9
+2018,January,ينايـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,10.8
+2018,March,مــارس,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,17.4
+2018,April,أبريــل,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,21.7
+2018,May,مايـــو,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,25.5
+2018,September,سبتمبـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,28.9
+2018,December,ديسمبــر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,15.9
+2018,July,يوليــو,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,40.4
+2018,August,أغسطـس,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,39.8
+2018,September,سبتمبـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,38.9
+2018,November,نوفمبـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,27.5
+2018,December,ديسمبــر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,24.1
+2018,October,أكتوبـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,39.1
+2018,December,ديسمبــر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,27.2
+2019,January,ينايـر,Temperature,درجة الحرارة,Mean,المتوسط,19.7
+2019,May,مايـــو,Temperature,درجة الحرارة,Mean,المتوسط,32.0
+2019,August,أغسطـس,Temperature,درجة الحرارة,Mean,المتوسط,35.9
+2019,May,مايـــو,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,28.2
+2019,October,أكتوبـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,29.6
+2019,December,ديسمبــر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,19.0
+2019,February,فبرايـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,14.8
+2019,May,مايـــو,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,24.1
+2019,August,أغسطـس,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,31.3
+2019,September,سبتمبـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,29.4
+2019,February,فبرايـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,22.0
+2019,June,يونيــو,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,40.9
+2019,September,سبتمبـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,38.6
+2019,October,أكتوبـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,35.9
+2019,May,مايـــو,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,43.8
+2019,June,يونيــو,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,45.3
+2019,July,يوليــو,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,43.0
+2019,August,أغسطـس,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,45.4
+2019,December,ديسمبــر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,28.6
+2020,January,ينايـر,Temperature,درجة الحرارة,Mean,المتوسط,18.1
+2020,March,مــارس,Temperature,درجة الحرارة,Mean,المتوسط,22.142607526881722
+2020,September,سبتمبـر,Temperature,درجة الحرارة,Mean,المتوسط,34.83152777777778
+2020,November,نوفمبـر,Temperature,درجة الحرارة,Mean,المتوسط,26.191944444444445
+2020,August,أغسطـس,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,33.012903225806454
+2020,September,سبتمبـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,31.32
+2020,January,ينايـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,10.8
+2020,March,مــارس,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,15.6
+2020,June,يونيــو,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,28.3
+2020,July,يوليــو,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,31.0
+2020,September,سبتمبـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,29.3
+2020,November,نوفمبـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,19.8
+2020,January,ينايـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,21.0
+2020,March,مــارس,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,26.164516129032258
+2020,April,أبريــل,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,31.333333333333332
+2020,July,يوليــو,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,41.83870967741935
+2020,August,أغسطـس,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,40.15483870967742
+2020,November,نوفمبـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,29.266666666666666
+2020,July,يوليــو,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,45.5
+2020,August,أغسطـس,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,43.8
+2021,April,أبريــل,Temperature,درجة الحرارة,Mean,المتوسط,27.7
+2021,July,يوليــو,Temperature,درجة الحرارة,Mean,المتوسط,36.5
+2021,March,مــارس,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,19.5
+2021,August,أغسطـس,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,33.4
+2021,December,ديسمبــر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,18.7
+2021,February,فبرايـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,15.1
+2021,June,يونيــو,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,27.3
+2021,September,سبتمبـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,27.6
+2021,January,ينايـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,22.0
+2021,August,أغسطـس,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,41.8
+2021,September,سبتمبـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,37.8
+2021,January,ينايـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,25.9
+2021,February,فبرايـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,28.2
+2021,March,مــارس,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,40.0
+2021,April,أبريــل,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,39.9
+2022,April,أبريــل,Temperature,درجة الحرارة,Mean,المتوسط,27.3
+2022,July,يوليــو,Temperature,درجة الحرارة,Mean,المتوسط,35.4
+2022,August,أغسطـس,Temperature,درجة الحرارة,Mean,المتوسط,36.3
+2022,September,سبتمبـر,Temperature,درجة الحرارة,Mean,المتوسط,34.3
+2022,November,نوفمبـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,24.7
+2022,May,مايـــو,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,24.7
+2022,March,مــارس,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,26.9
+2022,May,مايـــو,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,34.6
+2022,June,يونيــو,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,40.2
+2022,July,يوليــو,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,39.2
+2022,August,أغسطـس,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,40.5
+2022,October,أكتوبـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,34.6
+2022,December,ديسمبــر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,24.4
+2022,January,ينايـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,25.5
+2022,June,يونيــو,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,46.6
+2022,July,يوليــو,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,43.3
+2022,December,ديسمبــر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,29.1
+2023,January,ينايـر,Temperature,درجة الحرارة,Mean,المتوسط,18.0
+2023,May,مايـــو,Temperature,درجة الحرارة,Mean,المتوسط,31.7
+2023,June,يونيــو,Temperature,درجة الحرارة,Mean,المتوسط,35.0
+2023,July,يوليــو,Temperature,درجة الحرارة,Mean,المتوسط,36.6
+2023,December,ديسمبــر,Temperature,درجة الحرارة,Mean,المتوسط,22.1
+2023,February,فبرايـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,17.2
+2023,April,أبريــل,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,22.5
+2023,May,مايـــو,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,28.3
+2023,June,يونيــو,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,31.5
+2023,August,أغسطـس,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,33.7
+2023,November,نوفمبـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,23.8
+2023,May,مايـــو,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,23.1
+2023,June,يونيــو,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,28.1
+2023,October,أكتوبـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,26.5
+2023,April,أبريــل,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,30.3
+2023,May,مايـــو,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,35.9
+2023,May,مايـــو,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,43.6
+2023,July,يوليــو,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,46.3
+2023,October,أكتوبـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,39.4
+2011,February,فبرايـر,Temperature,درجة الحرارة,Mean,المتوسط,18.5
+2011,September,سبتمبـر,Temperature,درجة الحرارة,Mean,المتوسط,33.6
+2011,December,ديسمبــر,Temperature,درجة الحرارة,Mean,المتوسط,17.6
+2011,April,أبريــل,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,22.8
+2011,May,مايـــو,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,28.6
+2011,June,يونيــو,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,31.6
+2011,January,ينايـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,13.1
+2011,February,فبرايـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,12.8
+2011,March,مــارس,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,15.8
+2011,October,أكتوبـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,22.2
+2011,November,نوفمبـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,12.1
+2011,January,ينايـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,20.4
+2011,February,فبرايـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,21.8
+2011,May,مايـــو,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,36.9
+2011,December,ديسمبــر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,20.5
+2011,February,فبرايـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,31.2
+2011,April,أبريــل,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,36.7
+2011,May,مايـــو,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,45.6
+2011,July,يوليــو,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,46.0
+2011,August,أغسطـس,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,44.5
+2011,September,سبتمبـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,40.4
+2012,April,أبريــل,Temperature,درجة الحرارة,Mean,المتوسط,26.2
+2012,June,يونيــو,Temperature,درجة الحرارة,Mean,المتوسط,34.7
+2012,July,يوليــو,Temperature,درجة الحرارة,Mean,المتوسط,36.0
+2012,August,أغسطـس,Temperature,درجة الحرارة,Mean,المتوسط,35.9
+2012,December,ديسمبــر,Temperature,درجة الحرارة,Mean,المتوسط,20.4
+2012,July,يوليــو,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,30.1
+2012,February,فبرايـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,21.1
+2012,March,مــارس,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,23.7
+2012,December,ديسمبــر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,23.1
+2012,April,أبريــل,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,38.8
+2012,May,مايـــو,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,43.7
+2012,September,سبتمبـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,43.1
+2013,March,مــارس,Temperature,درجة الحرارة,Mean,المتوسط,22.8
+2013,September,سبتمبـر,Temperature,درجة الحرارة,Mean,المتوسط,33.3
+2013,December,ديسمبــر,Temperature,درجة الحرارة,Mean,المتوسط,19.2
+2013,March,مــارس,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,19.3
+2013,September,سبتمبـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,30.3
+2013,February,فبرايـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,14.0
+2013,February,فبرايـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,23.0
+2013,April,أبريــل,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,31.1
+2013,March,مــارس,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,34.4
+2013,May,مايـــو,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,43.1
+2013,June,يونيــو,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,43.2
+2013,August,أغسطـس,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,41.6
+2013,September,سبتمبـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,45.5
+2013,October,أكتوبـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,37.1
+2014,April,أبريــل,Temperature,درجة الحرارة,Mean,المتوسط,27.4
+2014,October,أكتوبـر,Temperature,درجة الحرارة,Mean,المتوسط,30.8
+2014,December,ديسمبــر,Temperature,درجة الحرارة,Mean,المتوسط,20.5
+2014,May,مايـــو,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,28.7
+2014,July,يوليــو,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,32.7
+2014,February,فبرايـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,12.1
+2014,May,مايـــو,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,25.6
+2014,August,أغسطـس,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,30.3
+2014,December,ديسمبــر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,14.9
+2014,May,مايـــو,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,37.2
+2014,July,يوليــو,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,39.2
+2014,August,أغسطـس,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,39.2
+2014,June,يونيــو,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,43.2
+2015,January,ينايـر,Temperature,درجة الحرارة,Mean,المتوسط,21.551612903225806
+2015,July,يوليــو,Temperature,درجة الحرارة,Mean,المتوسط,40.18709677419355
+2015,August,أغسطـس,Temperature,درجة الحرارة,Mean,المتوسط,41.18387096774194
+2015,October,أكتوبـر,Temperature,درجة الحرارة,Mean,المتوسط,35.438709677419354
+2015,February,فبرايـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,12.9
+2015,March,مــارس,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,15.2
+2015,May,مايـــو,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,23.8
+2015,June,يونيــو,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,28.9
+2015,June,يونيــو,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,0.0
+2015,September,سبتمبـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,0.0
+2015,November,نوفمبـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,29.0
+2015,May,مايـــو,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,42.3
+2015,February,فبرايـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,17.239285714285714
+2015,August,أغسطـس,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,32.86451612903226
+2015,September,سبتمبـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,31.47
+2015,November,نوفمبـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,23.006666666666668
+2015,December,ديسمبــر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,16.990322580645163
+2016,January,ينايـر,Temperature,درجة الحرارة,Mean,المتوسط,17.8
+2016,May,مايـــو,Temperature,درجة الحرارة,Mean,المتوسط,32.0
+2016,August,أغسطـس,Temperature,درجة الحرارة,Mean,المتوسط,36.4
+2016,September,سبتمبـر,Temperature,درجة الحرارة,Mean,المتوسط,33.9
+2016,October,أكتوبـر,Temperature,درجة الحرارة,Mean,المتوسط,29.4
+2016,January,ينايـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,15.1
+2016,February,فبرايـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,16.2
+2016,November,نوفمبـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,22.1
+2016,January,ينايـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,10.1
+2016,February,فبرايـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,12.4
+2016,July,يوليــو,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,30.8
+2016,October,أكتوبـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,23.2
+2016,November,نوفمبـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,18.2
+2016,January,ينايـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,20.5
+2016,February,فبرايـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,22.2
+2016,May,مايـــو,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,36.6
+2016,July,يوليــو,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,39.8
+2016,October,أكتوبـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,33.7
+2016,January,ينايـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,26.0
+2016,April,أبريــل,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,39.2
+2016,November,نوفمبـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,33.9
+2017,February,فبرايـر,Temperature,درجة الحرارة,Mean,المتوسط,16.6
+2017,June,يونيــو,Temperature,درجة الحرارة,Mean,المتوسط,34.5
+2017,July,يوليــو,Temperature,درجة الحرارة,Mean,المتوسط,36.9
+2017,September,سبتمبـر,Temperature,درجة الحرارة,Mean,المتوسط,34.6
+2017,November,نوفمبـر,Temperature,درجة الحرارة,Mean,المتوسط,26.0
+2017,December,ديسمبــر,Temperature,درجة الحرارة,Mean,المتوسط,19.6
+2017,March,مــارس,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,14.1
+2017,April,أبريــل,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,18.3
+2017,May,مايـــو,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,25.1
+2017,December,ديسمبــر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,13.5
+2017,February,فبرايـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,19.3
+2017,March,مــارس,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,24.6
+2017,June,يونيــو,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,38.6
+2017,September,سبتمبـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,39.1
+2017,April,أبريــل,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,39.6
+2017,May,مايـــو,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,40.8
+2017,September,سبتمبـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,44.1
+2017,December,ديسمبــر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,28.9
+2018,May,مايـــو,Temperature,درجة الحرارة,Mean,المتوسط,31.5
+2018,July,يوليــو,Temperature,درجة الحرارة,Mean,المتوسط,36.2
+2018,December,ديسمبــر,Temperature,درجة الحرارة,Mean,المتوسط,21.6
+2018,February,فبرايـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,16.6
+2018,March,مــارس,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,20.7
+2018,April,أبريــل,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,23.9
+2018,September,سبتمبـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,31.4
+2018,December,ديسمبــر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,19.2
+2018,February,فبرايـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,13.0
+2018,June,يونيــو,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,30.4
+2018,August,أغسطـس,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,30.4
+2018,February,فبرايـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,23.6
+2018,May,مايـــو,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,36.4
+2018,February,فبرايـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,30.6
+2018,March,مــارس,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,37.6
+2018,May,مايـــو,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,42.9
+2018,August,أغسطـس,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,44.5
+2018,September,سبتمبـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,41.5
+2018,November,نوفمبـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,32.5
+2019,March,مــارس,Temperature,درجة الحرارة,Mean,المتوسط,20.8
+2019,April,أبريــل,Temperature,درجة الحرارة,Mean,المتوسط,25.5
+2019,September,سبتمبـر,Temperature,درجة الحرارة,Mean,المتوسط,34.4
+2019,March,مــارس,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,18.0
+2019,June,يونيــو,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,32.3
+2019,July,يوليــو,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,33.1
+2019,September,سبتمبـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,31.2
+2019,March,مــارس,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,14.5
+2019,June,يونيــو,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,29.7
+2019,July,يوليــو,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,31.1
+2019,November,نوفمبـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,17.7
+2019,December,ديسمبــر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,15.5
+2019,April,أبريــل,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,29.8
+2019,January,ينايـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,28.5
+2019,February,فبرايـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,26.3
+2019,November,نوفمبـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,31.8
+2020,May,مايـــو,Temperature,درجة الحرارة,Mean,المتوسط,30.959005376344088
+2020,August,أغسطـس,Temperature,درجة الحرارة,Mean,المتوسط,36.11088709677419
+2020,February,فبرايـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,16.017241379310345
+2020,April,أبريــل,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,23.72
+2020,June,يونيــو,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,30.95
+2020,November,نوفمبـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,23.34
+2020,December,ديسمبــر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,18.651612903225807
+2020,February,فبرايـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,10.0
+2020,April,أبريــل,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,19.9
+2020,May,مايـــو,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,23.5
+2020,August,أغسطـس,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,30.0
+2020,October,أكتوبـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,23.5
+2020,June,يونيــو,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,38.96
+2020,September,سبتمبـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,39.84
+2020,December,ديسمبــر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,23.716129032258063
+2020,February,فبرايـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,29.5
+2020,March,مــارس,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,31.2
+2020,April,أبريــل,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,41.1
+2020,October,أكتوبـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,37.8
+2020,December,ديسمبــر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,27.7
+2021,May,مايـــو,Temperature,درجة الحرارة,Mean,المتوسط,33.5
+2021,June,يونيــو,Temperature,درجة الحرارة,Mean,المتوسط,34.1
+2021,September,سبتمبـر,Temperature,درجة الحرارة,Mean,المتوسط,33.9
+2021,November,نوفمبـر,Temperature,درجة الحرارة,Mean,المتوسط,25.8
+2021,December,ديسمبــر,Temperature,درجة الحرارة,Mean,المتوسط,21.3
+2021,January,ينايـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,16.0
+2021,April,أبريــل,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,23.7
+2021,May,مايـــو,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,28.9
+2021,June,يونيــو,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,30.5
+2021,September,سبتمبـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,30.9
+2021,October,أكتوبـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,27.8
+2021,March,مــارس,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,14.8
+2021,May,مايـــو,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,24.8
+2021,October,أكتوبـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,25.1
+2021,November,نوفمبـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,20.4
+2021,February,فبرايـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,22.9
+2021,June,يونيــو,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,38.2
+2021,November,نوفمبـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,29.0
+2021,December,ديسمبــر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,23.9
+2021,May,مايـــو,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,44.4
+2021,June,يونيــو,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,43.0
+2021,July,يوليــو,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,45.0
+2021,October,أكتوبـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,38.4
+2021,November,نوفمبـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,32.8
+2022,January,ينايـر,Temperature,درجة الحرارة,Mean,المتوسط,17.8
+2022,February,فبرايـر,Temperature,درجة الحرارة,Mean,المتوسط,19.3
+2022,May,مايـــو,Temperature,درجة الحرارة,Mean,المتوسط,30.6
+2022,June,يونيــو,Temperature,درجة الحرارة,Mean,المتوسط,34.9
+2022,October,أكتوبـر,Temperature,درجة الحرارة,Mean,المتوسط,30.7
+2022,December,ديسمبــر,Temperature,درجة الحرارة,Mean,المتوسط,21.9
+2022,January,ينايـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,15.1
+2022,April,أبريــل,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,23.4
+2022,May,مايـــو,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,27.3
+2022,June,يونيــو,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,30.8
+2022,July,يوليــو,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,32.7
+2022,December,ديسمبــر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,19.4
+2022,February,فبرايـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,13.2
+2022,April,أبريــل,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,20.3
+2022,June,يونيــو,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,26.9
+2022,July,يوليــو,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,31.6
+2022,August,أغسطـس,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,31.7
+2022,September,سبتمبـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,26.6
+2022,October,أكتوبـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,24.7
+2022,April,أبريــل,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,31.9
+2022,November,نوفمبـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,30.8
+2022,October,أكتوبـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,37.7
+2022,November,نوفمبـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,35.7
+2023,March,مــارس,Temperature,درجة الحرارة,Mean,المتوسط,23.3
+2023,October,أكتوبـر,Temperature,درجة الحرارة,Mean,المتوسط,31.7
+2023,November,نوفمبـر,Temperature,درجة الحرارة,Mean,المتوسط,26.2
+2023,July,يوليــو,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,32.8
+2023,January,ينايـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,13.4
+2023,March,مــارس,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,16.4
+2023,July,يوليــو,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,31.3
+2023,September,سبتمبـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,29.1
+2023,November,نوفمبـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,19.1
+2023,July,يوليــو,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,41.0
+2023,August,أغسطـس,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,41.1
+2023,September,سبتمبـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,39.1
+2023,October,أكتوبـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,35.5
+2023,December,ديسمبــر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,24.9
+2023,March,مــارس,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,33.0
+2023,September,سبتمبـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,43.2
+2023,December,ديسمبــر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,27.0
+2011,May,مايـــو,Temperature,درجة الحرارة,Mean,المتوسط,32.2
+2011,June,يونيــو,Temperature,درجة الحرارة,Mean,المتوسط,34.6
+2011,November,نوفمبـر,Temperature,درجة الحرارة,Mean,المتوسط,23.0
+2011,July,يوليــو,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,32.1
+2011,September,سبتمبـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,30.3
+2011,October,أكتوبـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,26.7
+2011,June,يونيــو,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,28.6
+2011,July,يوليــو,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,29.3
+2011,September,سبتمبـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,26.9
+2011,December,ديسمبــر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,13.1
+2011,March,مــارس,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,25.0
+2011,August,أغسطـس,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,39.6
+2011,October,أكتوبـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,33.1
+2011,June,يونيــو,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,42.0
+2011,October,أكتوبـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,40.3
+2012,February,فبرايـر,Temperature,درجة الحرارة,Mean,المتوسط,17.8
+2012,May,مايـــو,Temperature,درجة الحرارة,Mean,المتوسط,32.8
+2012,October,أكتوبـر,Temperature,درجة الحرارة,Mean,المتوسط,30.8
+2012,November,نوفمبـر,Temperature,درجة الحرارة,Mean,المتوسط,25.1
+2012,January,ينايـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,14.9
+2012,February,فبرايـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,15.2
+2012,March,مــارس,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,16.9
+2012,April,أبريــل,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,23.0
+2012,May,مايـــو,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,29.1
+2012,June,يونيــو,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,31.2
+2012,July,يوليــو,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,32.4
+2012,September,سبتمبـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,30.2
+2012,October,أكتوبـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,27.4
+2012,February,فبرايـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,12.5
+2012,April,أبريــل,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,18.5
+2012,May,مايـــو,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,26.8
+2012,September,سبتمبـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,26.9
+2012,October,أكتوبـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,24.9
+2012,November,نوفمبـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,17.6
+2012,January,ينايـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,20.5
+2012,April,أبريــل,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,30.6
+2012,May,مايـــو,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,37.9
+2012,August,أغسطـس,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,40.1
+2012,September,سبتمبـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,37.5
+2012,October,أكتوبـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,34.9
+2012,January,ينايـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,26.3
+2012,August,أغسطـس,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,44.2
+2012,October,أكتوبـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,38.3
+2012,November,نوفمبـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,32.3
+2012,December,ديسمبــر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,28.9
+2013,January,ينايـر,Temperature,درجة الحرارة,Mean,المتوسط,18.8
+2013,May,مايـــو,Temperature,درجة الحرارة,Mean,المتوسط,30.6
+2013,June,يونيــو,Temperature,درجة الحرارة,Mean,المتوسط,33.6
+2013,July,يوليــو,Temperature,درجة الحرارة,Mean,المتوسط,35.3
+2013,January,ينايـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,15.9
+2013,February,فبرايـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,16.9
+2013,April,أبريــل,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,23.5
+2013,May,مايـــو,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,27.1
+2013,June,يونيــو,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,30.3
+2013,August,أغسطـس,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,31.4
+2013,October,أكتوبـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,25.1
+2013,November,نوفمبـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,21.5
+2013,January,ينايـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,11.6
+2013,April,أبريــل,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,19.9
+2013,May,مايـــو,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,22.9
+2013,June,يونيــو,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,26.3
+2013,August,أغسطـس,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,29.1
+2013,September,سبتمبـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,27.3
+2013,November,نوفمبـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,16.7
+2013,May,مايـــو,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,35.2
+2013,November,نوفمبـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,27.1
+2013,February,فبرايـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,27.8
+2014,March,مــارس,Temperature,درجة الحرارة,Mean,المتوسط,22.7
+2014,May,مايـــو,Temperature,درجة الحرارة,Mean,المتوسط,32.4
+2014,June,يونيــو,Temperature,درجة الحرارة,Mean,المتوسط,34.3
+2014,July,يوليــو,Temperature,درجة الحرارة,Mean,المتوسط,35.7
+2014,August,أغسطـس,Temperature,درجة الحرارة,Mean,المتوسط,35.2
+2014,November,نوفمبـر,Temperature,درجة الحرارة,Mean,المتوسط,24.3
+2014,January,ينايـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,14.7
+2014,March,مــارس,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,19.7
+2014,August,أغسطـس,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,32.4
+2014,September,سبتمبـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,30.6
+2014,November,نوفمبـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,21.6
+2014,March,مــارس,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,16.6
+2014,April,أبريــل,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,18.7
+2014,July,يوليــو,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,30.8
+2014,June,يونيــو,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,38.3
+2014,September,سبتمبـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,37.8
+2014,October,أكتوبـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,34.4
+2014,November,نوفمبـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,27.1
+2014,April,أبريــل,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,37.4
+2014,July,يوليــو,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,42.0
+2014,October,أكتوبـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,39.4
+2014,November,نوفمبـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,34.0
+2015,February,فبرايـر,Temperature,درجة الحرارة,Mean,المتوسط,23.37857142857143
+2015,March,مــارس,Temperature,درجة الحرارة,Mean,المتوسط,25.561290322580646
+2015,April,أبريــل,Temperature,درجة الحرارة,Mean,المتوسط,31.116666666666667
+2015,June,يونيــو,Temperature,درجة الحرارة,Mean,المتوسط,38.04666666666667
+2015,November,نوفمبـر,Temperature,درجة الحرارة,Mean,المتوسط,27.863333333333333
+2015,December,ديسمبــر,Temperature,درجة الحرارة,Mean,المتوسط,21.74516129032258
+2015,January,ينايـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,11.5
+2015,July,يوليــو,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,29.8
+2015,August,أغسطـس,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,31.8
+2015,October,أكتوبـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,26.4
+2015,November,نوفمبـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,17.8
+2015,January,ينايـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,5.1
+2015,March,مــارس,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,8.6
+2015,April,أبريــل,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,0.01
+2015,May,مايـــو,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,0.1
+2015,October,أكتوبـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,0.01
+2015,March,مــارس,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,31.5
+2015,December,ديسمبــر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,27.3
+2015,March,مــارس,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,19.545161290322582
+2015,April,أبريــل,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,23.333333333333332
+2015,May,مايـــو,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,28.516129032258064
+2015,June,يونيــو,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,30.986666666666668
+2015,October,أكتوبـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,28.870967741935484
+2016,April,أبريــل,Temperature,درجة الحرارة,Mean,المتوسط,26.5
+2016,June,يونيــو,Temperature,درجة الحرارة,Mean,المتوسط,34.5
+2016,March,مــارس,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,20.0
+2016,May,مايـــو,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,28.5
+2016,June,يونيــو,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,30.5
+2016,September,سبتمبـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,30.9
+2016,December,ديسمبــر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,17.7
+2016,April,أبريــل,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,17.9
+2016,June,يونيــو,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,28.3
+2016,September,سبتمبـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,28.0
+2016,December,ديسمبــر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,13.8
+2016,April,أبريــل,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,31.5
+2016,June,يونيــو,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,39.4
+2016,September,سبتمبـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,37.7
+2016,November,نوفمبـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,27.9
+2016,March,مــارس,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,31.3
+2016,May,مايـــو,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,41.7
+2016,August,أغسطـس,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,45.6
+2016,October,أكتوبـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,38.3
+2017,March,مــارس,Temperature,درجة الحرارة,Mean,المتوسط,21.3
+2017,April,أبريــل,Temperature,درجة الحرارة,Mean,المتوسط,27.6
+2017,May,مايـــو,Temperature,درجة الحرارة,Mean,المتوسط,32.6
+2017,October,أكتوبـر,Temperature,درجة الحرارة,Mean,المتوسط,31.1
+2017,February,فبرايـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,14.1
+2017,March,مــارس,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,18.4
+2017,April,أبريــل,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,24.1
+2017,August,أغسطـس,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,33.2
+2017,October,أكتوبـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,27.6
+2017,December,ديسمبــر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,16.6
+2017,January,ينايـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,13.2
+2017,July,يوليــو,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,30.7
+2017,January,ينايـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,21.3
+2017,July,يوليــو,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,42.1
+2017,August,أغسطـس,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,41.4
+2017,October,أكتوبـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,35.0
+2017,November,نوفمبـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,29.0
+2017,December,ديسمبــر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,22.9
+2017,January,ينايـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,26.0
+2017,February,فبرايـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,23.7
+2017,March,مــارس,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,32.2
+2017,June,يونيــو,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,42.9
+2017,July,يوليــو,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,46.0
+2017,November,نوفمبـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,34.4
+2018,March,مــارس,Temperature,درجة الحرارة,Mean,المتوسط,24.6
+2018,April,أبريــل,Temperature,درجة الحرارة,Mean,المتوسط,26.9
+2018,September,سبتمبـر,Temperature,درجة الحرارة,Mean,المتوسط,34.5
+2018,October,أكتوبـر,Temperature,درجة الحرارة,Mean,المتوسط,30.9
+2018,January,ينايـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,14.9
+2018,May,مايـــو,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,27.5
+2018,June,يونيــو,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,32.4
+2018,July,يوليــو,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,32.7
+2018,August,أغسطـس,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,32.4
+2018,October,أكتوبـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,27.9
+2018,November,نوفمبـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,22.7
+2018,July,يوليــو,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,30.7
+2018,October,أكتوبـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,22.2
+2018,November,نوفمبـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,18.9
+2018,January,ينايـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,21.9
+2018,March,مــارس,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,29.6
+2018,April,أبريــل,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,30.9
+2018,June,يونيــو,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,39.9
+2018,October,أكتوبـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,34.1
+2018,January,ينايـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,26.0
+2018,April,أبريــل,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,37.7
+2018,June,يونيــو,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,45.9
+2018,July,يوليــو,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,45.3
+2019,February,فبرايـر,Temperature,درجة الحرارة,Mean,المتوسط,19.1
+2019,June,يونيــو,Temperature,درجة الحرارة,Mean,المتوسط,36.3
+2019,July,يوليــو,Temperature,درجة الحرارة,Mean,المتوسط,36.0
+2019,October,أكتوبـر,Temperature,درجة الحرارة,Mean,المتوسط,32.1
+2019,November,نوفمبـر,Temperature,درجة الحرارة,Mean,المتوسط,25.4
+2019,December,ديسمبــر,Temperature,درجة الحرارة,Mean,المتوسط,21.4
+2019,January,ينايـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,17.2
+2019,February,فبرايـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,16.6
+2019,April,أبريــل,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,22.5
+2019,August,أغسطـس,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,32.8
+2019,November,نوفمبـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,22.5
+2019,January,ينايـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,13.2
+2019,April,أبريــل,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,19.1
+2019,October,أكتوبـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,27.3
+2019,January,ينايـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,23.0
+2019,March,مــارس,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,24.3
+2019,May,مايـــو,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,36.9
+2019,July,يوليــو,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,39.5
+2019,August,أغسطـس,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,40.4
+2019,November,نوفمبـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,28.0
+2019,December,ديسمبــر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,23.8
+2019,March,مــارس,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,27.8
+2019,April,أبريــل,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,37.9
+2019,September,سبتمبـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,42.7
+2019,October,أكتوبـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,42.3
+2020,February,فبرايـر,Temperature,درجة الحرارة,Mean,المتوسط,19.076293103448275
+2020,April,أبريــل,Temperature,درجة الحرارة,Mean,المتوسط,26.95638888888889
+2020,June,يونيــو,Temperature,درجة الحرارة,Mean,المتوسط,34.69263888888889
+2020,July,يوليــو,Temperature,درجة الحرارة,Mean,المتوسط,36.88225806451613
+2020,October,أكتوبـر,Temperature,درجة الحرارة,Mean,المتوسط,30.079301075268816
+2020,December,ديسمبــر,Temperature,درجة الحرارة,Mean,المتوسط,20.99247311827957
+2020,January,ينايـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,15.4
+2020,March,مــارس,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,19.151612903225807
+2020,May,مايـــو,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,27.093548387096774
+2020,July,يوليــو,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,33.593548387096774
+2020,October,أكتوبـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,26.838709677419356
+2020,December,ديسمبــر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,14.6
+2020,February,فبرايـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,22.610344827586207
+2020,May,مايـــو,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,35.61290322580645
+2020,October,أكتوبـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,33.30967741935484
+2020,January,ينايـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,29.2
+2020,May,مايـــو,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,42.5
+2020,June,يونيــو,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,43.3
+2020,September,سبتمبـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,43.7
+2020,November,نوفمبـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,33.3
+2021,January,ينايـر,Temperature,درجة الحرارة,Mean,المتوسط,19.0
+2021,February,فبرايـر,Temperature,درجة الحرارة,Mean,المتوسط,19.7
+2021,March,مــارس,Temperature,درجة الحرارة,Mean,المتوسط,23.1
+2021,August,أغسطـس,Temperature,درجة الحرارة,Mean,المتوسط,36.8
+2021,October,أكتوبـر,Temperature,درجة الحرارة,Mean,المتوسط,30.6
+2021,February,فبرايـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,17.1
+2021,July,يوليــو,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,33.1
+2021,November,نوفمبـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,23.1
+2021,January,ينايـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,13.2
+2021,April,أبريــل,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,20.1
+2021,July,يوليــو,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,29.8
+2021,August,أغسطـس,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,31.9
+2021,December,ديسمبــر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,15.5
+2021,March,مــارس,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,27.7
+2021,April,أبريــل,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,33.3
+2021,May,مايـــو,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,38.9
+2021,July,يوليــو,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,41.1
+2021,October,أكتوبـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,34.0
+2021,August,أغسطـس,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,45.5
+2021,September,سبتمبـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,42.3
+2021,December,ديسمبــر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,27.9
+2022,March,مــارس,Temperature,درجة الحرارة,Mean,المتوسط,22.3
+2022,November,نوفمبـر,Temperature,درجة الحرارة,Mean,المتوسط,27.4
+2022,February,فبرايـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,16.4
+2022,March,مــارس,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,19.0
+2022,August,أغسطـس,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,33.4
+2022,September,سبتمبـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,31.1
+2022,October,أكتوبـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,27.4
+2022,January,ينايـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,10.5
+2022,March,مــارس,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,15.7
+2022,November,نوفمبـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,20.5
+2022,December,ديسمبــر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,14.7
+2022,January,ينايـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,20.4
+2022,February,فبرايـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,22.6
+2022,September,سبتمبـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,38.5
+2022,February,فبرايـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,28.4
+2022,March,مــارس,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,39.3
+2022,April,أبريــل,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,38.1
+2022,May,مايـــو,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,40.7
+2022,August,أغسطـس,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,43.7
+2022,September,سبتمبـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,43.1
+2023,February,فبرايـر,Temperature,درجة الحرارة,Mean,المتوسط,19.7
+2023,April,أبريــل,Temperature,درجة الحرارة,Mean,المتوسط,26.0
+2023,August,أغسطـس,Temperature,درجة الحرارة,Mean,المتوسط,36.9
+2023,September,سبتمبـر,Temperature,درجة الحرارة,Mean,المتوسط,34.7
+2023,January,ينايـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,15.7
+2023,March,مــارس,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,20.3
+2023,September,سبتمبـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,31.7
+2023,October,أكتوبـر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,28.8
+2023,December,ديسمبــر,Temperature,درجة الحرارة,Mean Minimum,متوسط الصغرى,19.4
+2023,February,فبرايـر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,14.2
+2023,April,أبريــل,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,18.7
+2023,August,أغسطـس,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,32.8
+2023,December,ديسمبــر,Temperature,درجة الحرارة,Extreme Minimum,الحرارة الصغرى المطلقة,16.7
+2023,January,ينايـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,20.1
+2023,February,فبرايـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,23.2
+2023,March,مــارس,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,27.1
+2023,June,يونيــو,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,39.0
+2023,November,نوفمبـر,Temperature,درجة الحرارة,Mean Maximum,متوسط العظمـى,28.8
+2023,January,ينايـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,24.4
+2023,February,فبرايـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,29.2
+2023,April,أبريــل,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,38.8
+2023,June,يونيــو,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,45.8
+2023,August,أغسطـس,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,45.1
+2023,November,نوفمبـر,Temperature,درجة الحرارة,Extreme Maximum,الحرارة العظمى المطلقة,32.4
